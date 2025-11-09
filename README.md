@@ -1,3 +1,3 @@
 `git add .`
-`commit -m "abcd"`
+`git commit -m "abcd"`
 `git push`
